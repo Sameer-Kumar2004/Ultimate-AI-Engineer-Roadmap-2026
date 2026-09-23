@@ -21,7 +21,8 @@
 
 ## 📊 Overall Progress
 
-* [ ] Phase 0 — Mindset
+
+* [ done] Phase 0 — Mindset
 * [ ] Phase 1 — Python
 * [ ] Phase 2 — Math & Statistics
 * [ ] Phase 3 — Machine Learning
